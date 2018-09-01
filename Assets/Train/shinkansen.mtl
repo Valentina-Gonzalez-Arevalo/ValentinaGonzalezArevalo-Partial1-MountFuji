@@ -1,0 +1,57 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl shinkansen_dark
+Ka 0 0 0
+Kd 0.247059 0.247059 0.247059
+Ks 0.0617647 0.0617647 0.0617647
+illum 2
+Ns 5.65685
+
+newmtl shinkansen_body_loco
+Ka 0 0 0
+Kd 0.54902 0.54902 0.54902
+Ks 0.156863 0.156863 0.156863
+illum 2
+Ns 8
+map_Kd shinkansen_loco.bmp
+
+newmtl shinkansen_black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 8
+
+newmtl shinkansen_rubber
+Ka 0 0 0
+Kd 0.18098 0.18098 0.18098
+Ks 0.0459412 0.0459412 0.0459412
+illum 2
+Ns 9.84916
+
+newmtl shinkansen_glass
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.270588 0.27451 0.321569
+illum 2
+Ns 20.393
+
+newmtl shinkansen_construction
+Ka 0 0 0
+Kd 0.388235 0.376471 0.352941
+Ks 0.0213529 0.0207059 0.0194118
+illum 2
+Ns 11.3137
+map_Kd shinkansen_construction.bmp
+
+newmtl shinkansen_chrome
+Ka 0 0 0
+Kd 0.209804 0.209804 0.209804
+Ks 0.392157 0.392157 0.392157
+illum 2
+Ns 16.5642
